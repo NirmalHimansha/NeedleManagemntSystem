@@ -1,0 +1,7 @@
+Country Name (2 letter code) [AU]:LK
+State or Province Name (full name) [Some-State]:Sri-Lanka
+Locality Name (eg, city) []:Wattala
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:ParadiseToys
+Organizational Unit Name (eg, section) []:IT
+Common Name (e.g. server FQDN or YOUR name) []:Nirmal
+Email Address []:itsupport@paradisetoys.biz
